@@ -1,6 +1,6 @@
 {
   "name": "@chaicko/how-to-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "How To NPM course",
   "repository": "https://github.com/chaicko/how-to-npm",
   "main": "index.js",
